@@ -1,4 +1,3 @@
-import React from "react";
 import BannerImg from "../../assets/women/women2.jpg";
 import { GrSecure } from "react-icons/gr";
 import { IoFastFood } from "react-icons/io5";
@@ -27,8 +26,10 @@ const Banner = () => {
               data-aos="fade-up"
               className="text-sm text-gray-500 tracking-wide leading-5"
             >
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque
-              reiciendis inventore iste ratione ex alias quis magni at optio
+             Cozy up with incredible deals this winter season! From warm essentials to holiday favorites, our Winter Sale is packed with discounts you won’t want to miss. Whether you are looking to gift loved ones or treat yourself, enjoy savings up to 50% off on selected items. Hurry, these frosty prices are melting away fast!
+
+              <br></br>
+              <b>Here are some qualities of our brand....!</b>
             </p>
             <div className="flex flex-col gap-4">
               <div data-aos="fade-up" className="flex items-center gap-4">

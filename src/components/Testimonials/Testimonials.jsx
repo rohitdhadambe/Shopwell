@@ -3,21 +3,27 @@ import Slider from "react-slick";
 const TestimonialData = [
   {
     id: 1,
-    name: "Victor",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Rohit Dhadambe",
+    text:"A wonderful shopping experience! The site is easy to navigate, and the products are of great quality. My orders always arrive on time, and the packaging is excellent. I especially appreciate the attention to detail and care in every order.",
     img: "https://picsum.photos/101/101",
   },
   {
     id: 2,
-    name: "Satya Nadella",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Rohan Deshmukh",
+    text:"I’ve been shopping here for months, and the customer service is top-notch. They respond quickly and help with any questions. Sometimes, items go out of stock fast, but they restock quickly. Overall, very satisfied with my experience!",
     img: "https://picsum.photos/102/102",
   },
   {
     id: 3,
-    name: "Virat Kohli",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Riya Rathod",
+    text:"Absolutely amazing! The variety of products is fantastic, and I always find exactly what I need. The checkout process is quick and smooth, and I love the discounts. Highly recommended for anyone looking for quality and convenience!",
     img: "https://picsum.photos/103/103",
+  },
+  {
+    id: 4,
+    name: "sanika Mile",
+    text:"A wonderful shopping experience! The site is easy to navigate, and the products are of great quality. My orders always arrive on time, and the packaging is excellent. I especially appreciate the attention to detail and care in every order.",
+    img: "https://picsum.photos/101/101",
   },
 ];
 

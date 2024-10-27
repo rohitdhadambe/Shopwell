@@ -24,8 +24,8 @@ const App = () => {
       easing: "ease-in-sine",
       delay: 100,
     });
-    AOS.refresh();
-  }, []);
+    AOS.refresh();                          
+  }, []);     //Just animation for Popup the components...
 
   return (
     <div className="bg-white dark:bg-gray-900 dark:text-white duration-200">

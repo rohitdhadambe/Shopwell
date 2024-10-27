@@ -1,4 +1,3 @@
-import React from "react";
 import Img1 from "../../assets/women/women.png";
 import Img2 from "../../assets/women/women2.jpg";
 import Img3 from "../../assets/women/women3.jpg";
@@ -61,8 +60,7 @@ const Products = () => {
             Products
           </h1>
           <p data-aos="fade-up" className="text-xs text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
-            asperiores modi Sit asperiores modi
+           
           </p>
         </div>
         {/* Body section */}
